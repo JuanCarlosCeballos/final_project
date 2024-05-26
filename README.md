@@ -51,6 +51,7 @@ The analysis helped in understanding the crime trends in Austin over the past 5 
 - `notebooks/`: Jupyter notebooks for data cleaning, EDA, and mapping.
 - `dashboards/`: Tableau dashboard files.
 - `README.md`: Project documentation.
+- `new_presentations/`: A PDF presentation of the project.
 
 ## Tableau Public Dashboards
 The interactive dashboards are deployed on Tableau Public and can be accessed via the following links:
